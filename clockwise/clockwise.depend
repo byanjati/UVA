@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1409751515 source:c:\users\byan\documents\github\uva\clockwise\main.cpp
+	<iostream>
+	<stdio.h>
+
